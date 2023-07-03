@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+If you like my work, please consider to [BuyMeACoffee](https://www.buymeacoffee.com/niro1987).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/niro1987)
+
+
 <!--
 **niro1987/niro1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
